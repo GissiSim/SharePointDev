@@ -1,0 +1,9 @@
+{
+  "name": "SharePointDev",
+  "version": "1.0.0",
+  "description": "SharePoint PnP with React boilerplate Edit",
+  "main": "index.js",
+  "repository": "https://github.com/GissiSim/SharePointDev.git",
+  "author": "Gissur Simonarson",
+  "license": "MIT"
+}
